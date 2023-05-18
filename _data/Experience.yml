@@ -2,23 +2,23 @@
 # in the root directory
 
 Experience:
-  - category: New York City
+  - category: Oxford, MS
     items:
       - item: example.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: example.html
+      - item: example2.html
         image: /images/NYC2.jpg
-      - item: example2.html
+      - item: example3.html
         image: /images/NYC3.jpg
-      - item: example3.html
+      - item: example4.html
         image: /images/NYC4.jpg
-  - category: Los Angeles
+  - category: Houlka, MS
     items:
-      - item: example.html
+      - item: example5.html
         image: /images/LA1.jpg
-      - item: example.html
+      - item: example6.html
         image: /images/LA2.jpg
-      - item: example2.html
+      - item: example7.html
         image: /images/LA3.jpg
-      - item: example3.html
+      - item: example8.html
         image: /images/LA4.jpg
